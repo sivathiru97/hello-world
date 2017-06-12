@@ -3,5 +3,5 @@ class withoutsecolon
 {
 public static void main(String args[])
 {
-if(System.out.print("HELLO WORLD")==0){}
+if(System.out.printf("HELLO WORLD")==null){}
 }
