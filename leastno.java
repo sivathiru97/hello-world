@@ -5,7 +5,7 @@ class leastno
 public static void main(String args[])
 {
 int i=0,j=0;
-Scanner sc=neew Scanner(Ssytem.in);
+Scanner sc=neew Scanner(System.in);
 String s=sc.next();
 int a=Integer.parseInt(s);
 int dig=sc.nextInt();
