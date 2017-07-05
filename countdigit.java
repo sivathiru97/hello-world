@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class count
+public class countdigit
 {
     public static void main(String args[])
     {
