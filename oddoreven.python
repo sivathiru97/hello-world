@@ -1,0 +1,6 @@
+#to find oddreven
+num=int(input("enter a number "))
+if num%2==0:
+print('even is{1}'.format(num))
+else:
+print('odd is{1}'.format(num))
