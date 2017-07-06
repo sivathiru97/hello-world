@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class guviset5q42
+class stringcmp
 {
     public static void main(String args[])
     {
