@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Factorial
+class factorialofnumber
 {
     public static void main(String args[])
     {
